@@ -1,5 +1,5 @@
 # 💫 About Me:
-a MERN stack project<br>anything exciting<br>learning full stack development
+I'm currently working on a MERN stack project<br>I'm open to collaborate on anything exciting<br>I'm currently learning full stack development
 
 
 ## 🌐 Socials:
