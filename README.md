@@ -16,4 +16,3 @@ a MERN stack project<br>anything exciting<br>learning full stack development
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sanjana317&icon=0&color=0)](https://visitcount.itsvg.in)
